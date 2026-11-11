@@ -7,6 +7,10 @@ After the owner reviews and approves a finished video in a local dashboard, the 
 title, description, tags, thumbnail and captions, schedules its publish time, and uploads a short preview
 clip that links to it. It runs only on the owner's computer. It has no other users and is not offered to anyone.
 
-It uses YouTube API Services. See the [Privacy Policy](PRIVACY.md).
+It uses **YouTube API Services**: see the [YouTube Terms of Service](https://www.youtube.com/t/terms) and the
+[Google Privacy Policy](https://policies.google.com/privacy).
+
+- [Privacy Policy](PRIVACY.md)
+- [Terms of Service](TERMS.md)
 
 Contact: tgibson1@gmail.com
