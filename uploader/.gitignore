@@ -1,0 +1,4 @@
+bin/
+obj/
+youtube_client_secret*.json
+client_secret*.json

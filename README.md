@@ -12,5 +12,6 @@ It uses **YouTube API Services**: see the [YouTube Terms of Service](https://www
 
 - [Privacy Policy](PRIVACY.md)
 - [Terms of Service](TERMS.md)
+- [Upload script (source code)](uploader/)
 
 Contact: tgibson1@gmail.com
